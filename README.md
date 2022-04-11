@@ -8,9 +8,7 @@ Graduado em "Sistema de Informação", Pós Graduado em "Projetos e Gerência de
 
 Conhecimentos avançados nos exercícios de RedTeam, com: OWASP Zed Attack, Burpsuite, Metasploit, Maltego, Hydra, Nikito, SQLmap, Gitdorker, Nmap, Nessus, Tenable.io, Quixxi, MobSF, Yaazhini, entre outros do Kali Linux.
 
-• Grande capacidade de aprendizado autodidata e determinação para conhecimento de novas tecnologias.
-• Competência para assegurar a melhoria contínua, segurança e automação do ambiente de TI.
-• Ótimo relacionamento extra-pessoal e desenvoltura para lidar com trabalho e situações sob pressão.
+• Grande capacidade de aprendizado autodidata e determinação para conhecimento de novas tecnologias. Competência para assegurar a melhoria contínua, segurança e automação do ambiente de TI. Ótimo relacionamento extra-pessoal e desenvoltura para lidar com trabalho e situações sob pressão.
 
 <!---
 FelipeSilvany/FelipeSilvany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
