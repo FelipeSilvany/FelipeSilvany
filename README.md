@@ -1,4 +1,4 @@
-Profissional com 21 anos de experiência na área de tecnologia, com sólidos conhecimentos em resposta à incidentes de segurança, SOC, hardering, cyber defense, análise de vulnerabilidades, pentest, exercícios de red team, grandes projetos de cybersecurity em ambientes onpremises, Cloud e mobile (AppSec) e estruturação de equipes de alta performanse.
+Profissional com 24 anos de experiência na área de tecnologia, com sólidos conhecimentos em resposta à incidentes de segurança, SOC, hardering, cyber defense, análise de vulnerabilidades, pentest, exercícios de red team, grandes projetos de cybersecurity em ambientes onpremises, Cloud e mobile (AppSec) e estruturação de equipes de alta performanse.
 
 Sólida experiência na implementação de soluções técnicas e estruturação de equipes de segurança de alta performance. 
 
