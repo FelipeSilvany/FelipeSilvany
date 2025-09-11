@@ -4,7 +4,17 @@ Risco Corporativo. Eleito Top 01 Ethical Hacker Brasil na plataforma de bug boun
 <p><b>PRÊMIOS E RECONHECIMENTOS</b></p>
 <p>🏆 Top 01 Bugbounty Brasil 2025 pela HuntersPay/IPV7.Group</p>
 <p>🏆 Top 07 Bugbounty Brasil 2025 pela BugPay/Hackaflag</p>
-<p>🏆 Top 05 Bugbounty Europa/Wold 2022 pela Bugbounter</p>
+<p>🏆 Top 05 Bugbounty Europa/World 2022 pela Bugbounter</p>
 <p>🏆 Top 04 Bugbounty Brasil 2021 pela Bughunt</p>
 <p>🏆 Top 10 Information Security Professional Award 2021 pela Oncon Icon Awards</p>
+<br>
+<p><b>RESPONSIBLE DISCLOSURE</b></p>
+<p>⭐ TIM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ Smartfit</p>
+<p>⭐ Enjoei&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ Banco Master</p>
+<p>⭐ Webmotors&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ Bughunt</p>
+<p>⭐ Bitcoin Trade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ Mega Ip Connect</p>
+<p>⭐ Suzanonet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ Starkbank</p>
+<p>⭐ Ebanx&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ Banco BMG</p>
+<p>⭐ Estrelabet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ Banco Cora</p>
+
 
