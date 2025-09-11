@@ -9,8 +9,6 @@ Risco Corporativo. Eleito Top 01 Ethical Hacker Brasil na plataforma de bug boun
 <p>🏆 Top 10 Information Security Professional Award 2021 pela Oncon Icon Awards</p>
 <br>
 
-<p><b>💰 Vulnerabilidades reportadas e pagas pelas plataformas: 1️⃣0️⃣9️⃣</b></p><br>
-
 <p><b>RESPONSIBLE VULNERABILITY DISCLOSURE</b></p>
 
 <table>
@@ -51,3 +49,5 @@ Risco Corporativo. Eleito Top 01 Ethical Hacker Brasil na plataforma de bug boun
     <td></td>
   </tr>
 </table>
+
+<br><p><b>💰 TOTAL DE VULNERABILIDADES RECOMPENSADAS EM PLATAFORMAS: 1️⃣0️⃣9️⃣ </b></p>
