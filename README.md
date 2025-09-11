@@ -59,4 +59,36 @@ Risco Corporativo. Eleito Top 01 Ethical Hacker Brasil na plataforma de bug boun
 </table>
 
 
+<p><b>RESPONSIBLE VULNERABILITY DISCLOSURE</b></p>
+
+<div style="display:flex; flex-wrap:wrap; gap:20px; max-width:800px;">
+  <span>⭐ TIM</span>
+  <span>⭐ Smartfit</span>
+  <span>⭐ Enjoei</span>
+  <span>⭐ Banco Master</span>
+
+  <span>⭐ Webmotors</span>
+  <span>⭐ Bughunt</span>
+  <span>⭐ Bitcoin Trade</span>
+  <span>⭐ Mega Ip Connect</span>
+
+  <span>⭐ Suzanonet</span>
+  <span>⭐ Starkbank</span>
+  <span>⭐ Ebanx</span>
+  <span>⭐ Banco BMG</span>
+
+  <span>⭐ Estrelabet</span>
+  <span>⭐ Banco Cora</span>
+  <span>⭐ AstronMembers</span>
+  <span>⭐ Lime</span>
+
+  <span>⭐ inVision</span>
+  <span>⭐ Sun Express</span>
+  <span>⭐ Coino Crypto</span>
+  <span>⭐ Beymen Group</span>
+
+  <span>⭐ Ödeal</span>
+  <span>⭐ Get Contact</span>
+  <span>⭐ Papara Authentication API</span>
+</div>
 
