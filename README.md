@@ -17,3 +17,46 @@ Risco Corporativo. Eleito Top 01 Ethical Hacker Brasil na plataforma de bug boun
 <p>⭐ Ödeal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ Get Contact&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ Papara Authentication API</p>
 
 
+<p><b>RESPONSIBLE VULNERABILITY DISCLOSURE</b></p>
+
+<table>
+  <tr>
+    <td>⭐ TIM</td>
+    <td>⭐ Smartfit</td>
+    <td>⭐ Enjoei</td>
+    <td>⭐ Banco Master</td>
+  </tr>
+  <tr>
+    <td>⭐ Webmotors</td>
+    <td>⭐ Bughunt</td>
+    <td>⭐ Bitcoin Trade</td>
+    <td>⭐ Mega Ip Connect</td>
+  </tr>
+  <tr>
+    <td>⭐ Suzanonet</td>
+    <td>⭐ Starkbank</td>
+    <td>⭐ Ebanx</td>
+    <td>⭐ Banco BMG</td>
+  </tr>
+  <tr>
+    <td>⭐ Estrelabet</td>
+    <td>⭐ Banco Cora</td>
+    <td>⭐ AstronMembers</td>
+    <td>⭐ Lime</td>
+  </tr>
+  <tr>
+    <td>⭐ inVision</td>
+    <td>⭐ Sun Express</td>
+    <td>⭐ Coino Crypto</td>
+    <td>⭐ Beymen Group</td>
+  </tr>
+  <tr>
+    <td>⭐ Ödeal</td>
+    <td>⭐ Get Contact</td>
+    <td>⭐ Papara Authentication API</td>
+    <td></td>
+  </tr>
+</table>
+
+
+
