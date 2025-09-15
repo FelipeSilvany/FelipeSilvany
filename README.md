@@ -1,3 +1,31 @@
+<table>
+  <caption>Sumário Profissional</caption>
+  <tr>
+    <td>LinkedIn</td>
+    <td>
+      <a href="https://www.linkedin.com/in/silvany/" target="_blank">
+        https://www.linkedin.com/in/silvany/
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>Prêmios e Reconhecimentos</td>
+    <td>
+      <a href="https://github.com/FelipeSilvany/Ranking_Bugbounty" target="_blank">
+        https://github.com/FelipeSilvany/Ranking_Bugbounty
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>109 Vulnerabilidades Recompensadas</td>
+    <td>
+            <a href="https://github.com/FelipeSilvany/Disclosed_Vulnerabilities" target="_blank">
+        https://github.com/FelipeSilvany/Disclosed_Vulnerabilities
+    </td>
+  </tr>
+</table>
+<br>
+
 <p>Profissional sênior com 24 anos de experiência em Tecnologia da Informação e carreira consolidada em Cybersecurity, com atuação prática e estratégica em Red Teaming, Pentests, Emulação de Ataques, Análise de Vulnerabilidades e Gestão de
 Risco Corporativo. Eleito Top 01 Ethical Hacker Brasil na plataforma de bug bounty Hunters Pay em 2025 e ranqueado entre os Top 05 hackers em todas as plataformas nacionais com mais de 💯 vulnerabilidades recompensadas, destacando-se pela entrega de resultados de alto impacto em programas de segurança ofensiva e emulação de ataques avançados. Especialista em planejamento e execução de pentests, emulação de ameaças baseadas no framework MITRE ATT&CK e táticas de adversary simulation aplicadas a ambientes corporativos de missão crítica. Domínio de arquiteturas on-premises, multi-cloud, mobile (AppSec) e infraestruturas híbridas, atuando em projetos alinhados a frameworks e normas internacionais como NIST, ISO 27001, OWASP, e MITRE ATT&CK. Histórico comprovado em implementação de programas de Threat Intelligence, Comitês de Gestão de Vulnerabilidades e entrega de visibilidade de ameaças emergentes que suportam decisões executivas e compliance com legislações como LGPD.</p><br>
 
