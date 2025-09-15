@@ -1,7 +1,8 @@
+
 <table>
-  <caption>Sumário Profissional</caption>
+  <caption><b>Sumário Profissional</b></caption>
   <tr>
-    <td>LinkedIn</td>
+    <td>🔗 LinkedIn</td>
     <td>
       <a href="https://www.linkedin.com/in/silvany/" target="_blank">
         https://www.linkedin.com/in/silvany/
@@ -9,7 +10,7 @@
     </td>
   </tr>
   <tr>
-    <td>Prêmios e Reconhecimentos</td>
+    <td>🏆 Prêmios e Reconhecimentos</td>
     <td>
       <a href="https://github.com/FelipeSilvany/Ranking_Bugbounty" target="_blank">
         https://github.com/FelipeSilvany/Ranking_Bugbounty
@@ -17,7 +18,7 @@
     </td>
   </tr>
   <tr>
-    <td>109 Vulnerabilidades Recompensadas</td>
+    <td>🐞 109 Vulnerabilidades Recompensadas</td>
     <td>
             <a href="https://github.com/FelipeSilvany/Disclosed_Vulnerabilities" target="_blank">
         https://github.com/FelipeSilvany/Disclosed_Vulnerabilities
