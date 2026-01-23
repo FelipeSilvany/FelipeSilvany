@@ -80,7 +80,7 @@ Risco Corporativo. Eleito Top 01 Ethical Hacker Brasil na plataforma de bug boun
   </tr>
 </table>
 
-<br><p><b>💰 TOTAL DE VULNERABILIDADES RECOMPENSADAS EM PLATAFORMAS: 1️⃣0️⃣9️⃣ </b></p>
+<p><b>💰 Total de vulnerabilidades recompensadas em plataformas de Bug Bounty: 1️⃣0️⃣9️⃣ </b></p>
 <br><br>
 <p><b>PENETRATION TESTING CONSULTING SERVICE PROVIDED</b></p>
 
@@ -91,5 +91,5 @@ Risco Corporativo. Eleito Top 01 Ethical Hacker Brasil na plataforma de bug boun
     <td>⭐ LLYASOC</td>
     <td>⭐ Contratista</td>
   </tr>
-  <br><br>
-  💰 TOTAL DE VULNERABILIDADES E EXPLORAÇÕES REPORTADAS AOS CLIENTES : 6️⃣9️⃣
+</table>
+  💰 Total de vulnerabilidades e explorações reportadas aos clientes: 6️⃣9️⃣
