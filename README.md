@@ -81,3 +81,13 @@ Risco Corporativo. Eleito Top 01 Ethical Hacker Brasil na plataforma de bug boun
 </table>
 
 <br><p><b>💰 TOTAL DE VULNERABILIDADES RECOMPENSADAS EM PLATAFORMAS: 1️⃣0️⃣9️⃣ </b></p>
+
+<p><b>PENETRATION TESTING CONSULTING SERVICE PROVIDED</b></p>
+
+<table>
+  <tr>
+    <td>⭐ Banco Banese</td>
+    <td>⭐ Bidcom</td>
+    <td>⭐ LLYASOC</td>
+    <td>⭐ Contratista</td>
+  </tr>
