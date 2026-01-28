@@ -32,7 +32,7 @@ Risco Corporativo. Eleito Top 01 Ethical Hacker Brasil na plataforma de bug boun
 
 <p><b>PRÊMIOS E RECONHECIMENTOS</b></p>
 <p>🏆 Top 01 Bugbounty Brasil 2025 pela HuntersPay</p>
-<p>🏆 Top 04 Pentest Leadership at Strike® 2025</p>
+<p>🏆 Top 04 Pentest Leadership 2025 pela Strike®</p>
 <p>🏆 Top 07 Bugbounty Brasil 2025 pela BugPay/Hackaflag</p>
 <p>🏆 Top 05 Bugbounty Europa/World 2022 pela Bugbounter</p>
 <p>🏆 Top 04 Bugbounty Brasil 2021 pela Bughunt</p>
