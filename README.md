@@ -32,7 +32,7 @@ Risco Corporativo. Eleito Top 01 Ethical Hacker Brasil na plataforma de bug boun
 
 <p><b>PRÊMIOS E RECONHECIMENTOS</b></p>
 <p>🏆 Top 01 Bugbounty Brasil 2026 pela HuntersPay®</p>
-<p>🏆 Top 163 Criadores de conteúdo sobre Cybersecurity no Linkedin pela Favikon®</p>
+<p>🏆 Top 163 Criadores de conteúdo sobre Cybersecurity 2026 no Linkedin pela Favikon®</p>
 <p>🏆 Top 01 Bugbounty Brasil 2025 pela HuntersPay®</p>
 <p>🏆 Top 04 Pentest Leadership 2025 pela Strike®</p>
 <p>🏆 Top 07 Bugbounty Brasil 2025 pela BugPay®/Hackaflag</p>
