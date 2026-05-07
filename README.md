@@ -18,6 +18,14 @@
     </td>
   </tr>
   <tr>
+    <td>📓 CVEs Publicadas</td>
+    <td>
+      <a href="https://github.com/FelipeSilvany/cves_publicadas" target="_blank">
+        https://github.com/FelipeSilvany/cves_publicadas
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td>🐞 109 Vulnerabilidades Recompensadas</td>
     <td>
             <a href="https://github.com/FelipeSilvany/Disclosed_Vulnerabilities" target="_blank">
