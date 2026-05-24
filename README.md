@@ -35,7 +35,7 @@
 </table>
 <br>
 
-><br>
+<br>
 
 <p><b>CVEs Publicadas</b></p>
 <p>📓 CVE-2026-34407</p>
